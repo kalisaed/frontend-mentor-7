@@ -96,14 +96,14 @@ span {
 @media (max-width:650px) {
     .container {
         flex-direction: column;
-        width: 405px;
+        width: 350px;
         height: 700px;
     }
 
     .img {
         background: url(./images/image-product-mobile.jpg);
-        width: 405px;
-        height: 40.6%;
+        width: 100%;
+        height: 35%;
         background-size: contain;
         border-radius: 12px 12px 0 0;
     }
@@ -128,7 +128,7 @@ span {
     }
 
     .content a {
-        width: 90%;
+        width: 70%;
         margin-right: 10px;
     }
     p{
